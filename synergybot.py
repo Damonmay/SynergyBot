@@ -27,8 +27,8 @@ async def on_message(message):
     	await message.channel.send("SYNERGY") #maybe add some variable statements here
 
 
-client.run('OTk3Mjg4NTIzMzQ0Mzc5OTQ0.Gs1YG8.lXe-zL5pXXbEC9FmVxKEOR5xn-vdoVXjTtIqNw')
-
+client.run('TokenBot')
+#whoops, accidentedly uploaded token
 
 
 
